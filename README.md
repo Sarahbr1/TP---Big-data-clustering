@@ -92,4 +92,4 @@ M2 TNI - Paris Saclay
 
 ---
 
-**📖 For detailed analysis, methodology, and visualizations, see the [[full report]([url](https://github.com/Sarahbr1/TP-Big-data-clustering/blob/main/Report_Big_Data_Clustering.pdf))].**
+**📖 For detailed analysis, methodology, and visualizations, see the ([full report](https://github.com/Sarahbr1/TP-Big-data-clustering/blob/main/Report_Big_Data_Clustering.pdf)).**
